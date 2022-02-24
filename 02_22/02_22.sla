@@ -20,7 +20,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="4.251968504" RMARGIN="7.086614173" FIRST="5.669291339" VOR="1.15" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Times New Roman Regular" FONTSIZE="10"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="4.251968504" RMARGIN="7.086614173" FIRST="5.669291339" VOR="1.15" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Times New Roman Regular" FONTSIZE="10"/>
         <STYLE NAME="Titlu Sectiune Axa" ALIGN="0" LINESPMode="1" LINESP="16" INDENT="0" RMARGIN="0" FIRST="2.00976378" VOR="2.15" NACH="2" OpticalMargins="0" FONT="Times New Roman Bold Italic" FONTSIZE="35" BASEO="4" LANGUAGE="English"/>
         <STYLE NAME="Intrebare Interviu  " PARENT="Default Paragraph Style" INDENT="4.251968504" RMARGIN="4.251968504" FIRST="2.834645669" FONT="Times New Roman Bold" KERN="-2" wordTrack="0.99"/>
         <STYLE NAME="Raspuns Interviu" PARENT="Default Paragraph Style" INDENT="4.251968504" RMARGIN="4.251968504" FIRST="2.834645669" FONT="Times New Roman Italic" KERN="0"/>
@@ -190,7 +190,7 @@
         <STYLE NAME="Copy of Intrebare Interviu   (51)" PARENT="Copy of Default Paragraph Style (50)" INDENT="4.251968504" RMARGIN="4.251968504" FIRST="2.834645669" FONT="Times New Roman Bold" KERN="-2" wordTrack="0.99"/>
         <STYLE NAME="Copy of Raspuns Interviu (51)" PARENT="Copy of Default Paragraph Style (50)" INDENT="4.251968504" RMARGIN="4.251968504" FIRST="2.834645669" FONT="Times New Roman Italic" KERN="0"/>
         <STYLE NAME="Copy of paragraf fara alineat (6)" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="4.251968504" RMARGIN="7.086614173" FIRST="0" VOR="1.15" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Times New Roman Regular" FONTSIZE="10"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -586,12 +586,54 @@
             <trail PARENT="Titlu Sectiune Axa"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="29" PTYPE="4" XPOS="165.82677165126" YPOS="13310.7051968504" WIDTH="414.204094490473" HEIGHT="40.63748032" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 414.204 0 414.204 0 414.204 0 414.204 0 414.204 40.6375 414.204 40.6375 414.204 40.6375 414.204 40.6375 0 40.6375 0 40.6375 0 40.6375 0 40.6375 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 414.204 0 414.204 0 414.204 0 414.204 0 414.204 40.6375 414.204 40.6375 414.204 40.6375 414.204 40.6375 0 40.6375 0 40.6375 0 40.6375 0 40.6375 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="29" PTYPE="4" XPOS="165.82677165126" YPOS="13310.7051968504" WIDTH="414.204094490473" HEIGHT="77.646614173229" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 414.204 0 414.204 0 414.204 0 414.204 0 414.204 77.6466 414.204 77.6466 414.204 77.6466 414.204 77.6466 0 77.6466 0 77.6466 0 77.6466 0 77.6466 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 414.204 0 414.204 0 414.204 0 414.204 0 414.204 77.6466 414.204 77.6466 414.204 77.6466 414.204 77.6466 0 77.6466 0 77.6466 0 77.6466 0 77.6466 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="CNDV-iștii turmentați de dragoste"/>
+            <trail PARENT="Titlu Sectiune Axa"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="29" PTYPE="4" XPOS="165.826771653543" YPOS="13358.8941731789" WIDTH="459.875905511811" HEIGHT="618.474330758268" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 618.474 459.876 618.474 459.876 618.474 459.876 618.474 0 618.474 0 618.474 0 618.474 0 618.474 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 618.474 459.876 618.474 459.876 618.474 459.876 618.474 0 618.474 0 618.474 0 618.474 0 618.474 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="29" PTYPE="4" XPOS="165.826771653543" YPOS="13388.3518110236" WIDTH="459.875905511811" HEIGHT="589.016692913539" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 589.017 459.876 589.017 459.876 589.017 459.876 589.017 0 589.017 0 589.017 0 589.017 0 589.017 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 589.017 459.876 589.017 459.876 589.017 459.876 589.017 0 589.017 0 589.017 0 589.017 0 589.017 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="15" CH="• Cause time wasn’t in our favour"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• This is not goodbye, this is simply see you later &lt;3"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Foaie verde creier ud, ai spic ingliș veri gud"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Even when the night changes, it will never change me and you"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• După două ore de chin în care m-am gândit de unde să încep curățenia, mi-a venit o idee genială: Nu mai bine beau eu o bere?"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Pe vremea mea, când se lua curentul, cu lumânarea ne uitam la televizor!"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Oxigenul și Potasiul și-au dat întâlnire. Se pare că totul a fost OK."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• All tarot people are hot, you can’t tell me otherwise!!!"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Nu permite nimănui să-ți distrugă ziua! Distruge-o tu însuți!"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Pentru gagică-mea din 10D, te pup suzeta Marusciac. &lt;3 Pentru cealaltă gagică din 11B te pup drrrrraguta Pedrro. &lt;3"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="Nota redacției: Întrucât lunile februarie și martie vin adesea la pachet cu replici de agățat, ne-am hotărât să vă prezentăm câteva exemple negative, culese direct de la victimele neinspirației:"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Crezi în dragoste la prima vedere sau trebuie să mai trec de câteva ori pe lângă tine?"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Zi-mi acum dacă vrei să fii cu mine ca să nu irosesc 100 lei pe băuturi."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Aş putea să te îmbăt şi să profit de tine, dar ştiu că nu e corect. Aşadar, ce-ar fi să-mi iei ceva de băut, să mă îmbeţi şi să profiţi tu de mine?"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Hmm, ochii tăi au aceeaşi culoare ca BMW-ul meu"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Bună! Vrei să vezi ce tavan frumos am acasă?"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Ştii, buzele astea nu se vor săruta singure!"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Te cheama cumva Gillette? Pentru ca esti the best a man can get."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Wow."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Te superi daca imi tii si mie mana asta cat timp fac eu o plimbare prin parc?"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="15" CH="• Pentru tine m-aș duce la eco cu tema nefăcută"/>
+            <para PARENT="subtitlu"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="30" PTYPE="4" XPOS="806.4623622063" YPOS="13310.7051968504" WIDTH="374.2015748" HEIGHT="40.63748032" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 374.202 0 374.202 0 374.202 0 374.202 0 374.202 40.6375 374.202 40.6375 374.202 40.6375 374.202 40.6375 0 40.6375 0 40.6375 0 40.6375 0 40.6375 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 374.202 0 374.202 0 374.202 0 374.202 0 374.202 40.6375 374.202 40.6375 374.202 40.6375 374.202 40.6375 0 40.6375 0 40.6375 0 40.6375 0 40.6375 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -609,7 +651,7 @@
             <para PARENT="subtitlu" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="30" PTYPE="2" XPOS="926.305511811024" YPOS="13553.9746063324" WIDTH="137.48031496063" HEIGHT="137.8882677" RADRECT="2.834645669" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-360" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0859789336839462" LOCALSCY="0.0859789336839462" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="C:/Users/Silviu/Desktop/WhatsApp Image 2021-10-05 at 14.23.35.jpeg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="2.83465 0 2.83465 0 134.646 0 134.646 0 134.646 0 136.211 0 137.48 2.83465 137.48 1.26911 137.48 2.83465 137.48 2.83465 137.48 135.054 137.48 135.054 137.48 135.054 137.48 136.619 134.646 137.888 136.211 137.888 134.646 137.888 134.646 137.888 2.83465 137.888 2.83465 137.888 2.83465 137.888 1.26911 137.888 0 135.054 0 136.619 0 135.054 0 135.054 0 2.83465 0 2.83465 0 2.83465 0 1.26911 2.83465 0 1.26911 0 " NUMCO="32" COCOOR="2.83465 0 2.83465 0 134.646 0 134.646 0 134.646 0 136.211 0 137.48 2.83465 137.48 1.26911 137.48 2.83465 137.48 2.83465 137.48 135.054 137.48 135.054 137.48 135.054 137.48 136.619 134.646 137.888 136.211 137.888 134.646 137.888 134.646 137.888 2.83465 137.888 2.83465 137.888 2.83465 137.888 1.26911 137.888 0 135.054 0 136.619 0 135.054 0 135.054 0 2.83465 0 2.83465 0 2.83465 0 1.26911 2.83465 0 1.26911 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="30" PTYPE="2" XPOS="926.305511811024" YPOS="13553.9746063324" WIDTH="137.48031496063" HEIGHT="137.8882677" RADRECT="2.834645669" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-360" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0859789336839462" LOCALSCY="0.0859789336839462" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../sponsori/ArtisticByAna.jpeg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="2.83465 0 2.83465 0 134.646 0 134.646 0 134.646 0 136.211 0 137.48 2.83465 137.48 1.26911 137.48 2.83465 137.48 2.83465 137.48 135.054 137.48 135.054 137.48 135.054 137.48 136.619 134.646 137.888 136.211 137.888 134.646 137.888 134.646 137.888 2.83465 137.888 2.83465 137.888 2.83465 137.888 1.26911 137.888 0 135.054 0 136.619 0 135.054 0 135.054 0 2.83465 0 2.83465 0 2.83465 0 1.26911 2.83465 0 1.26911 0 " NUMCO="32" COCOOR="2.83465 0 2.83465 0 134.646 0 134.646 0 134.646 0 136.211 0 137.48 2.83465 137.48 1.26911 137.48 2.83465 137.48 2.83465 137.48 135.054 137.48 135.054 137.48 135.054 137.48 136.619 134.646 137.888 136.211 137.888 134.646 137.888 134.646 137.888 2.83465 137.888 2.83465 137.888 2.83465 137.888 1.26911 137.888 0 135.054 0 136.619 0 135.054 0 135.054 0 2.83465 0 2.83465 0 2.83465 0 1.26911 2.83465 0 1.26911 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <ImageEffect Code="1" Param=""/>
             <PageItemAttributes/>
@@ -1377,12 +1419,12 @@
             <trail PARENT="autor"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="24" PTYPE="4" XPOS="761.10803149378" YPOS="10959.84" WIDTH="311.811023622047" HEIGHT="39.6850393700787" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 39.685 311.811 39.685 311.811 39.685 311.811 39.685 0 39.685 0 39.685 0 39.685 0 39.685 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 39.685 311.811 39.685 311.811 39.685 311.811 39.685 0 39.685 0 39.685 0 39.685 0 39.685 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="24" PTYPE="4" XPOS="763.494803149607" YPOS="10923.0122834646" WIDTH="311.811023622047" HEIGHT="39.6850393700787" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 39.685 311.811 39.685 311.811 39.685 311.811 39.685 0 39.685 0 39.685 0 39.685 0 39.685 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 39.685 311.811 39.685 311.811 39.685 311.811 39.685 0 39.685 0 39.685 0 39.685 0 39.685 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Moda în CNDV"/>
             <trail PARENT="Titlu Sectiune Axa"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="24" PTYPE="4" XPOS="759.70806313378" YPOS="11002.6998425197" WIDTH="460.0289764" HEIGHT="380.023936949605" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 460.029 0 460.029 0 460.029 0 460.029 0 460.029 380.024 460.029 380.024 460.029 380.024 460.029 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 460.029 0 460.029 0 460.029 0 460.029 0 460.029 380.024 460.029 380.024 460.029 380.024 460.029 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="112" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="24" PTYPE="4" XPOS="759.70806313378" YPOS="10962.6973228347" WIDTH="460.0289764" HEIGHT="420.026456634654" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 460.029 0 460.029 0 460.029 0 460.029 0 460.029 420.026 460.029 420.026 460.029 420.026 460.029 420.026 0 420.026 0 420.026 0 420.026 0 420.026 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 460.029 0 460.029 0 460.029 0 460.029 0 460.029 420.026 460.029 420.026 460.029 420.026 460.029 420.026 0 420.026 0 420.026 0 420.026 0 420.026 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="112" BACKITEM="-1">
             <ITEXT CH="Valentine's Day a ajuns „să bântuie” și secțiunea de modă, mai ceva ca o fantomă dintr-un film horror. Așadar, m-am gândit să-mi dau date cu mine însămi și să vorbesc despre ce înseamnă moda pentru mine. De când scriu articole pe tema asta, am realizat că mulți dintre noi folosesc îmbrăcămintea ca să se exprime, și o fac într-un mod foarte cool. Moda a fost mereu un fel de safe space pentru mine. Îmi amintesc că eram pasionată de asta și când eram mică. E ciudat cum o haină te poate motiva și-ți poate alunga singurătatea odată ce o îmbraci. În fiecare dimineață, am ocazia să aleg cine vreau să fiu - îmi ascund identitățile în dulap și le scot când simt că se potrivesc. Dar cine vreau să fiu de Valentine's Day?"/>
             <para PARENT="Copy of Default Paragraph Style (1)"/>
             <ITEXT CH="De obicei, îmi ascund personalitatea colorată sub palete de culori neutre: negru, roșu, mov și albastru închis, etc. Nu știu dacă aș putea să-mi definesc propriul stil, deoarece se schimbă destul de des. Îmi place să mă inspir din toate erele (de la anii '60 cu Twiggy, până la anii 2000 cu Kylie Minogue), artiștii mei preferați, stilurile de muzică pe care le ascult (în ultima vreme punk, metal și old funk), personaje din filme care îmi atrag atenția, și multe persoane pe care le văd pe holurile școlii noastre. În perioada asta mai friguroasă, layering-ul devine cel mai bun prieten al meu, deși sunt genul de persoană care renunță la căldură pentru un outfit bun. "/>
@@ -1397,12 +1439,412 @@
             <para PARENT="Copy of Default Paragraph Style (1)"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="165.67370079126" YPOS="11563.9341732282" WIDTH="459.8759055" HEIGHT="180.646299212756" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 180.646 459.876 180.646 459.876 180.646 459.876 180.646 0 180.646 0 180.646 0 180.646 0 180.646 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 180.646 459.876 180.646 459.876 180.646 459.876 180.646 0 180.646 0 180.646 0 180.646 0 180.646 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="111">
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="165.67370079126" YPOS="11563.9341732282" WIDTH="459.8759055" HEIGHT="120.642519685192" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 120.643 459.876 120.643 459.876 120.643 459.876 120.643 0 120.643 0 120.643 0 120.643 0 120.643 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 459.876 0 459.876 0 459.876 0 459.876 0 459.876 120.643 459.876 120.643 459.876 120.643 459.876 120.643 0 120.643 0 120.643 0 120.643 0 120.643 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="111">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="320.01448822126" YPOS="11750.725984252" WIDTH="306.1417323" HEIGHT="20.00125984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 306.142 0 306.142 0 306.142 0 306.142 0 306.142 20.0013 306.142 20.0013 306.142 20.0013 306.142 20.0013 0 20.0013 0 20.0013 0 20.0013 0 20.0013 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 306.142 0 306.142 0 306.142 0 306.142 0 306.142 20.0013 306.142 20.0013 306.142 20.0013 306.142 20.0013 0 20.0013 0 20.0013 0 20.0013 0 20.0013 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="320.014488188977" YPOS="11684.5766929159" WIDTH="306.1417323" HEIGHT="20.00125984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 306.142 0 306.142 0 306.142 0 306.142 0 306.142 20.0013 306.142 20.0013 306.142 20.0013 306.142 20.0013 0 20.0013 0 20.0013 0 20.0013 0 20.0013 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 306.142 0 306.142 0 306.142 0 306.142 0 306.142 20.0013 306.142 20.0013 306.142 20.0013 306.142 20.0013 0 20.0013 0 20.0013 0 20.0013 0 20.0013 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Burcuș Carolina"/>
             <trail PARENT="autor"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="160.004409448819" YPOS="11724.5792125984" WIDTH="394.202834647953" HEIGHT="91.0488188976378" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.203 0 394.203 0 394.203 0 394.203 0 394.203 91.0488 394.203 91.0488 394.203 91.0488 394.203 91.0488 0 91.0488 0 91.0488 0 91.0488 0 91.0488 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.203 0 394.203 0 394.203 0 394.203 0 394.203 91.0488 394.203 91.0488 394.203 91.0488 394.203 91.0488 0 91.0488 0 91.0488 0 91.0488 0 91.0488 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Din creațiile CNDV-iștilor îndrăgostiți"/>
+            <trail PARENT="Titlu Sectiune Axa"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="180.005669291339" YPOS="11824.585511811" WIDTH="200.006929133858" HEIGHT="217.337952755906" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 217.338 200.007 217.338 200.007 217.338 200.007 217.338 0 217.338 0 217.338 0 217.338 0 217.338 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 217.338 200.007 217.338 200.007 217.338 200.007 217.338 0 217.338 0 217.338 0 217.338 0 217.338 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="116" BACKITEM="-1">
+            <ITEXT CH="Cuburi"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Îmi colorezi mintea cu ale tale cuburi rubice"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Şi mă pui totuşi în mare dificultate,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Pentru că tu vrei să le rezolvăm împreună"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Şi eşti atât de entuziasmat încât mă doare"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="inima să îți mărturisesc că nu mă pricep,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Că nu pot să rezolv nici ale mele integrame"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Darămite ale tale sofisticate taine."/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Aşa că fac ce ar face orice laşă veritabilă:"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Mă prefac. Mă port de parcă sunt atentă,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="De parcă aş încerca să înțeleg tehnicile tale,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Când adevărul este că m-am pierdut demult."/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="M-am pierdut în imaginea ta,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Singurul algoritm care mă fascinează:"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Buzele tale care explică atât de blând,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Ochii tăi, în care arde un foc pe care nu-l pot explica"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Atât de puternic încât topeşte întunericul din mine,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Genele tale atât de sensibile,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Pe care le fluturi mereu cu nesiguranță."/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Măcar dacă ai realiza cât de minunată e ființa ta,"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Dacă ai putea să te vezi prin prisma mea."/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Totul la tine mă captivează"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Şi fără să vreau mă copleşesc"/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <ITEXT FONTSIZE="10" CH="Milioane de sentimente în acelaşi timp."/>
+            <para PARENT="subtitlu" ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="408.446614173229" YPOS="11824.585511811" WIDTH="200.0069291" HEIGHT="220.013858267717" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 220.014 200.007 220.014 200.007 220.014 200.007 220.014 0 220.014 0 220.014 0 220.014 0 220.014 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 220.014 200.007 220.014 200.007 220.014 200.007 220.014 0 220.014 0 220.014 0 220.014 0 220.014 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="115">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="180.005669291339" YPOS="12053.6006299213" WIDTH="440.027716535433" HEIGHT="240.015118110236" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="5.66929133858268" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 440.028 0 440.028 0 440.028 0 440.028 0 440.028 240.015 440.028 240.015 440.028 240.015 440.028 240.015 0 240.015 0 240.015 0 240.015 0 240.015 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 440.028 0 440.028 0 440.028 0 440.028 0 440.028 240.015 440.028 240.015 440.028 240.015 440.028 240.015 0 240.015 0 240.015 0 240.015 0 240.015 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10" CH="Te caut haotic până uit cine ești,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut haotic ca să-mi spui iar povești."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut în umbre, te caut in gând,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caută în ce-i mai frumos pe Pământ"/>
+            <para PARENT="subtitlu"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut în neguri, in zorii de zi,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut în râset zglobiu de copii"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut în stele, în nori călători,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut în lunca umplută cu flori "/>
+            <para PARENT="subtitlu"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Și când te găsesc, doar un lucru îți cer,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="De ce vreau eu asta e tot un mister,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Vreau doar o poveste, o seară în doi,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Să fim pentru o oră, copii amândoi"/>
+            <para PARENT="subtitlu"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Să fie vacanță, să ningă afară,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Din nou restul lumii treptat sa dispară,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Să-mi spui mai odată ce-ți trece prin minte,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Doar simple, banale, obișnuite cuvinte."/>
+            <para PARENT="subtitlu"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Te caut haotic, dar nu uit cine ești,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Ta caut haotic, ca să-mi spui iar povești."/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Și când te-oi găsi, într-o seară cu ploi,"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="Atât îți mai cer: amintește-ți de noi."/>
+            <para PARENT="subtitlu"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="1015.3020472441" YPOS="11544.5678740158" WIDTH="200.0069291" HEIGHT="720.045354330709" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 720.045 200.007 720.045 200.007 720.045 200.007 720.045 0 720.045 0 720.045 0 720.045 0 720.045 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.007 0 200.007 0 200.007 0 200.007 0 200.007 720.045 200.007 720.045 200.007 720.045 200.007 720.045 0 720.045 0 720.045 0 720.045 0 720.045 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="17" CH="Prăpastia care e iubirea "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Nu am crezut vreodată"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="că o inimă poate face față"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="la atât de multă suferință,"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Și totuși să continue să iubească"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="chiar mai intens ca la început."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Apoi te-am cunoscut pe tine. "/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Când ai apărut tu în viața mea"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="cumva am avut o presimțire"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="că soarta îmi va fi pecetluită,"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Că mă vei face să mă destram"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="în milioane de bucățele."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Dar asta nu m-a oprit să te iubesc. "/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="M-am aruncat în vârtejul tău"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="cu capul înainte și mâinile legate,"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="mintea goală și inima sperând."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Atât de tare m-ai distras,"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="încât nu am simțit prăbușirea."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Trebuia să știu mai bine de atât. "/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Puteam măcar să găsesc ceva"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="care să îmi atenueze căderea,"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Dar de ce să fac asta când "/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="eu nici nu mai simțeam durerea"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="în transa în care mă aflam."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Inima mea a fost zdrobită de impact. "/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Și în ciuda a tot ce a îndurat"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="am forțat-o să se ridice"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="și m-am chinuit să o repar"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="cum am putut eu mai bine."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Am șlefuit-o până a început să sclipească"/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <ITEXT FONTSIZE="10" CH="Din nou numai pentru tine."/>
+            <para PARENT="subtitlu" ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="27" PTYPE="4" XPOS="154.493858267677" YPOS="12466.4598425087" WIDTH="465.539527559095" HEIGHT="251.512440944882" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="5.66929133858268" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 465.54 0 465.54 0 465.54 0 465.54 0 465.54 251.512 465.54 251.512 465.54 251.512 465.54 251.512 0 251.512 0 251.512 0 251.512 0 251.512 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 465.54 0 465.54 0 465.54 0 465.54 0 465.54 251.512 465.54 251.512 465.54 251.512 465.54 251.512 0 251.512 0 251.512 0 251.512 0 251.512 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="despre poezie și alți demoni "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="poezia poate să te înjure, să te dea cu capul de pereți "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="și să zică ce nimeni nu ar avea curaj "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="versurile sunt însăși trupurile oamenilor sau ce mai rămâne din sufletul poetului în cauză "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="dar unii copii nu au fost învățați că toate corpurile sunt frumoase "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="nimeni nu ne-a învățat nici pe noi despre Sofia Nădejde, că capul plecat va fi întodeauna tăiat, sau că bărbații au voie să aibă sentimente "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia te lasă să dansezi balet când toată lumea îți povestește despre noua piesă rock "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="stimabila nu are limite și dacă ar vrea ne-ar putea face una cu universul (un fel de bătaie la nivel emoțional)"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="nimeni nu ne-a învățat că nimic și tot ce ne-nconjoară-i poezie, că Maiorescu era un misogin sau că sufletul nu are gen "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia urlă "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia e colțul de la pâine pe care nu ești obligat să-l mănânci dar totuși simți că nimic nu ar mai merge bine în ziua respectivă fără el "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia iubește, și poezia e însăși iubirea "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="iar noi știm că &quot;self love&quot; e o componentă foarte importantă în zilele noastre "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="nimeni nu ne-a învățat să înțelegem poezia și nimeni nu o înțelege"/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia dă cu pumnul în masă, se revoltă și peste două minute te servește cu un ceai de mușețel (poezia e un tată) "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia e iubire "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT FONTSIZE="10" CH="poezia intră în oase "/>
+            <para PARENT="subtitlu"/>
+            <ITEXT CH="-Nico Giurgi &lt;3"/>
+            <para PARENT="autor"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="760.030866158662" YPOS="11624.5729133858" WIDTH="235.269921242913" HEIGHT="660.04157480315" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="5.66929133858268" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.27 0 235.27 0 235.27 0 235.27 0 235.27 660.042 235.27 660.042 235.27 660.042 235.27 660.042 0 660.042 0 660.042 0 660.042 0 660.042 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.27 0 235.27 0 235.27 0 235.27 0 235.27 660.042 235.27 660.042 235.27 660.042 235.27 660.042 0 660.042 0 660.042 0 660.042 0 660.042 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="&quot;Ți-aș scrie mii&quot;"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Scrisori, ți-aș scrie mii, iubite-mi."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Ești prea aproape de geneza fiorilor mei,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Dar prea departe de oglinzi..."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Eu te ador, dar oare tu la fel de mult?"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Nu poți ține pasul și totuși,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Ai rotunjit punctul, l-ai imprimat fix, tare,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu mâna ta"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Ținând-o pe a mea."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Și nu-mi pare rău pentru acele seri lungi,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Sau acele cinci minute"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="De rai."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Imortalizarea ultimei sărutări, la fără două minute,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Înainte să pleci și să lași în urmă absolut..."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Mi te-ai luat cu tine"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="În buzunar?"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Sau doar iubirea mea incapsulată "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="În minusculul tău plămân?"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Privește-mă! Întoarce-te!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Și nu mai spune nimic."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Ține-mă, ține-mă,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Până mă încorporez în tine, să-ți absorb sângele"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Și să-l iei pe al meu în schimb,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Doar ia-mă!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Să zburăm împreună și să ne oprim doar"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Pentru o simplă mărturisire"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="te iubesc."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT CH="-Tinc Anastasia Blanca"/>
+            <para PARENT="autor"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="28" PTYPE="4" XPOS="775.286929086615" YPOS="12426.4573228347" WIDTH="440.027716582677" HEIGHT="320.020157480316" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="5.66929133858268" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 440.028 0 440.028 0 440.028 0 440.028 0 440.028 320.02 440.028 320.02 440.028 320.02 440.028 320.02 0 320.02 0 320.02 0 320.02 0 320.02 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 440.028 0 440.028 0 440.028 0 440.028 0 440.028 320.02 440.028 320.02 440.028 320.02 440.028 320.02 0 320.02 0 320.02 0 320.02 0 320.02 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Scrisoare"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Feher Gabriel,"/>
+            <breakline/>
+            <ITEXT FONTSIZE="10" CH="clasa a XII-a C"/>
+            <para PARENT="autor"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Hârtie, hârtie, hârtie! "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Toc, toc, toc, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="La ușă bate "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Poștașul bate."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Intră în casă poștașul meu, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu scrisoarea-n mână, poștașul meu "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Îi aduc o cană dragului meu, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Îi e sete, prietenului meu."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Își deschide cravata poștașul meu, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Dar mă zgârie pe creier poștașul "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu un suflu îmi dă, frumosul meu, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Scrisoare de deces îmi dă unicul meu."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Mi-ai omorât speranța, dragul meu. "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cum să-mi faci una ca asta? "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="A jurat că-mi va deschide poarta! "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="A jurat că-mi va decide soarta!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Că mă trezește din somn cu un sărut, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu mâna pe obraz mă trezește, "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Să dea de stâncă, că-i un mut! "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cum să mori așa, orbește?"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="În iad să meargă prost ce îi! "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu copil cu tot mă lasă "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="- Zi-mi și mie, totuși, când "/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="O să ajungă mort acasă?"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="27" PTYPE="4" XPOS="160.004409448819" YPOS="12766.4787401575" WIDTH="205.523149606299" HEIGHT="360.022677165354" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 205.523 0 205.523 0 205.523 0 205.523 0 205.523 360.023 205.523 360.023 205.523 360.023 205.523 360.023 0 360.023 0 360.023 0 360.023 0 360.023 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 205.523 0 205.523 0 205.523 0 205.523 0 205.523 360.023 205.523 360.023 205.523 360.023 205.523 360.023 0 360.023 0 360.023 0 360.023 0 360.023 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Sărmanul"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT CH="Feher Gabriel,"/>
+            <breakline/>
+            <ITEXT CH=" clasa a XII-a C"/>
+            <para PARENT="autor"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Omul m-a omorât!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Cu sulița m-a omorât!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="- Striga omul nebun."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Dar ce să-i faci, sărmanul,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Lasă-l că nu-i bun."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Adu-I cearșaful să-și facă patul,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Ca atunci când moare,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Să aibă unde a-și pune capul."/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Nu-i adu’ cămașa de forță,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Că doar se zbate, sărmanul,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Și nu-i bine –"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Dă-i morfine! –"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Că îl doare,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Și în fine moare,"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Sărmanul!"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="28" PTYPE="4" XPOS="795.288188976378" YPOS="12755.4349606276" WIDTH="400.025196850394" HEIGHT="71.0475590574806" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.025 0 400.025 0 400.025 0 400.025 0 400.025 71.0476 400.025 71.0476 400.025 71.0476 400.025 71.0476 0 71.0476 0 71.0476 0 71.0476 0 71.0476 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.025 0 400.025 0 400.025 0 400.025 0 400.025 71.0476 400.025 71.0476 400.025 71.0476 400.025 71.0476 0 71.0476 0 71.0476 0 71.0476 0 71.0476 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="25" CH="LILIA"/>
+            <para PARENT="Titlu Sectiune Axa" ALIGN="1"/>
+            <ITEXT FONTSIZE="20" CH="Cap I"/>
+            <para PARENT="subtitlu" ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="28" PTYPE="4" XPOS="795.288188976378" YPOS="12814.4812598425" WIDTH="400.025196850394" HEIGHT="352.022677165356" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.025 0 400.025 0 400.025 0 400.025 0 400.025 352.023 400.025 352.023 400.025 352.023 400.025 352.023 0 352.023 0 352.023 0 352.023 0 352.023 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.025 0 400.025 0 400.025 0 400.025 0 400.025 352.023 400.025 352.023 400.025 352.023 400.025 352.023 0 352.023 0 352.023 0 352.023 0 352.023 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="“Cerul de un albastru intens surâde ierbii îngrășate de căldura unui soare ce și-a pus dinții deoparte. Mirosurile sunt atât de puternice la fel ca parfumurile orientale, iar păsările vestesc că asta va fi o zi superbă.” Așa s-ar gândi orice om atunci când își deschide geamul pentru a admira puterea cu care mediul înconjurator s-a metamorfozat."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="-Lilia, e timpul să ieși 15 minute în grădină înainte de venirea domnului Bela."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="-Bine, bunico."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Urăsc să mă ridic de la biroul meu din colț. Aici îmi place să îmi imaginez viața mea într-o lume ideală,unde nimeni nu s-ar certa cu nimeni și aș putea avea tot ce mi-aș fi dorit vreodată. Ridicându-mă de pe scaunul tapițat cu imprimeuri cu maci îmi vine în minte povestea vieții mele, unii ar putea spune că e tristă , dar mie nu-mi place să mă plâng, am moștenit răceala caracteristică a bunicii mele,Victoria."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Atunci când aveam doar 3 luni, tata, nu știu din ce motiv, a părăsit-o pe mama, iar în cei 14 ani care au urmat a decis să rămână ascuns, ascuns de orice responsabilitate sau interes făță de noi. Când abia împlinisem 7 ani mama decide să plece peste hotare ca să muncească pentru a-mi oferi ”o educație aleasă”, exact acestea i-au fost cuvintele în ziua când a plecat și m-a lăsat la mama ei, o femeie posacă și care nu simte niciodată milă sau compasiune față de nimeni. De atunci ne vedem pe un calculator vechi și prăfuit din camera bunicii și mereu îmi adresează aceeași întrebare “Cum te descurci cu orele de curs?”. Cei drept nu pot spune că nu îmi place să fiu educată acasă, ori de câte ori mă uit pe geamul vechi de lemn din camera mea și văd alți copii cum vin de la școală mă gândesc încontiuu cât sunt de privilegiată, în plus bunica susține ca “Școala de stat e absolut mizerabilă, elevii se jignesc și nu-i interesează studiul.Lilia,mama ta nu a fost capabilă să își practice profesia dorită, de aceea mă voi asigura că ești bine educată! “ Nimeni însă nu a întrebat ce îmi doresc eu..."/>
+            <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
